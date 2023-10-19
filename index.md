@@ -7,3 +7,4 @@
 * [Optimizing Model Performance with Regularization Techniques](https://docs.google.com/document/d/e/2PACX-1vS7ej8FWUeeupmmuDzFzQ6-9c4FP_QNQU-2ZrUefk13VPYXVbNNFBhvOOS5K8shuFIPVZfQMaN7nq7B/pub)
 
 ## Presentations
+* [Bridging the Gender Pay Gap Divide](https://docs.google.com/presentation/d/e/2PACX-1vRQVEVAwYmu0f9txESIJ3X2kXNQZrXLNXw2F5-xYfKalq_sP2vqwH1LQHxnyKPRCLnpZPGw5COq7h0J/pub?start=false&loop=false&delayms=3000)
