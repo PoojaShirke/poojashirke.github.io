@@ -8,3 +8,4 @@
 
 ## Presentations
 * [Bridging the Gender Pay Gap Divide](https://docs.google.com/presentation/d/e/2PACX-1vRQVEVAwYmu0f9txESIJ3X2kXNQZrXLNXw2F5-xYfKalq_sP2vqwH1LQHxnyKPRCLnpZPGw5COq7h0J/pub?start=false&loop=false&delayms=3000)
+* [Analyzing Violations in SF Restaurants: SQL Script Insights](https://docs.google.com/presentation/d/e/2PACX-1vS5h9-dCTLdg0JDaMR80gHT1IwbpjxaP0ddS6zb6GV53Q00t1nmhtxbDkaChXIUww/pub?start=false&loop=false&delayms=3000)
