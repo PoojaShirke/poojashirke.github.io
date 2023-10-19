@@ -11,4 +11,4 @@
 * [Analyzing Violations in SF Restaurants: SQL Script Insights](https://docs.google.com/presentation/d/e/2PACX-1vS5h9-dCTLdg0JDaMR80gHT1IwbpjxaP0ddS6zb6GV53Q00t1nmhtxbDkaChXIUww/pub?start=false&loop=false&delayms=3000)
 
 ## Dashboards
-* [TPRM Executive Dashboard Proposal: Vendor Risk and Issue Management](https://docs.google.com/presentation/d/e/2PACX-1vRQSpHFGPEQ1gAhbBuJM34jotFjXipghyO1XuymWBIFJJqkZX7R_DurRMKDM6iqneaTpKuEu97HWtkM/pub?start=false&loop=false&delayms=3000)
+* [Executive Dashboard Proposal: Vendor Risk and Issue Management](https://docs.google.com/presentation/d/e/2PACX-1vRQSpHFGPEQ1gAhbBuJM34jotFjXipghyO1XuymWBIFJJqkZX7R_DurRMKDM6iqneaTpKuEu97HWtkM/pub?start=false&loop=false&delayms=3000)
