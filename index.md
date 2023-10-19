@@ -12,3 +12,7 @@
 
 ## Dashboards
 * [TPRM Executive Dashboard Proposal: Vendor Risk and Issue Management](https://docs.google.com/presentation/d/e/2PACX-1vRs4QG24It2M2RhDpRPuNcnvn8l9KihD3BSROYwRlhMN98qLqAO3WD9xeBSaNiiZg/pub?start=false&loop=false&delayms=3000)
+
+## Certificates
+* [SQL Intermediate](https://drive.google.com/file/d/1PcwakSQlKDN0Wh4-nfJ7v6_IGtdi-jWb/view?usp=sharing)
+* [Introduction to Python](https://drive.google.com/file/d/1xjGlXEgWkL20oYhYbPzkEMpgQ1oHbDV_/view?usp=sharing)
